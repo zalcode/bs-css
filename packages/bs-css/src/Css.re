@@ -1,4 +1,4 @@
-module Types = Css_Types;
+module Types = CssAtomicTypes;
 open Types;
 
 include Css_Colors;

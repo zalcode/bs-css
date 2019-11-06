@@ -1,6 +1,6 @@
 /* Css documentation is copy/pasted from mozilla mdn web docs */
 
-module Types = Css_Types;
+module Types = CssAtomicTypes;
 
 type rule;
 
